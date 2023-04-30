@@ -15,6 +15,8 @@ A video of the tkinter app.
 
 https://user-images.githubusercontent.com/121901070/235373485-29f27b38-161f-43c3-9b1b-ce0c4e5f3e1d.mp4
 
+PS:
 
+Clicking on the select image will prompt a file explorer window.
 
 
