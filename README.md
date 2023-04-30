@@ -1,5 +1,5 @@
 # CIFAR10-classification-with-Tkinter
-A image classification project using the cifa10 dataset and Tkinter.
+A image classification project using the cifar10 dataset and Tkinter.
 
 
 This repository contains:
